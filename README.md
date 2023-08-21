@@ -17,3 +17,4 @@ sᴜᴘᴘᴏʀᴛs ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏ
 [Come here](http://t.me/Tech_Division)
 ---
 
+[![Deploy to heroku chacha](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Saanusalvi1/HackSessionBot)
